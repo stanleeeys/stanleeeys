@@ -25,7 +25,7 @@ function App() {
     <div className="portfolio-root">
       <header className="portfolio-header">
         <img src={fotoPerfil} alt="Foto de perfil" className="foto-perfil" />
-        <h1>Stanley Saul Serrano Oliva</h1>
+        <h1>Stanley  Serrano </h1>
         <p className="portfolio-desc">Egresado de ingenieria en sistemas y computación,
            Desarrollador web apasionado por la tecnología y la creatividad.</p>
         <p className="email">so0152032019@unab.edu.sv</p>
