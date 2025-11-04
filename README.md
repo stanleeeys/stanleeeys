@@ -53,14 +53,14 @@ I love learning new technologies and improving my skills through real projects.
 | **Employee Management API** | CRUD REST API built with Spring Boot and MySQL. | Java, Spring Boot, MySQL |
 | **E-Commerce Frontend** | Angular web app with cart, categories, and JWT login. | Angular, TypeScript |
 
-🔗 Check out more on my GitHub: [github.com/EFEELE](https://github.com/EFEELE)
+🔗 Check out more on my GitHub: [github.com/stanleeeys](https://github.com/stanleeeys)
 
 ---
 
 ## 📫 Contact Me
 - ✉️ **Email:** so0152032019@unab.edu.sv  
 - 💼 **LinkedIn:** [Stanley Serrano](https://www.linkedin.com/in/stanley-serrano-28b620279/)  
-- 🧠 **Portfolio:** [Coming soon 🚀](https://stanleeeys.github.io/stanleeeys/)  
+- 🧠 **Portfolio:** [Stanley Serrano](https://stanleeeys.github.io/stanleeeys/)  
 
 ---
 
